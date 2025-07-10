@@ -48,41 +48,24 @@
 cd client
 npm install
 npm run dev
-🗂️ Backend Setup
-bash
-Copy
-Edit
+## 🗂️ Backend Setup
+
 cd server
 npm install
 node index.js
-🤖 Python NLP Service
-bash
-Copy
-Edit
-cd ai
+## 🤖 Python NLP Service
+
 pip install -r requirements.txt
 python app.py
-📷 Screenshots
-Include the following in your repo:
 
-Login Page
-
-Mood Tracker Interface
-
-Chatbot Conversation View
-
-Meditation Library
-
-Dashboard Analytics
-
-📊 Results & Testing
+## 📊 Results & Testing
 Metric	Result
 Intent Accuracy	84%
 Sentiment Detection	88%
 Avg Response Time	~1.2 seconds
 UI Usability Satisfaction	92% rated Excellent/Good
 
-🔐 Ethical Considerations
+## 🔐 Ethical Considerations
 ✅ Consent-based data handling and encrypted storage.
 
 🚫 No clinical or diagnostic advice given by the chatbot.
@@ -91,7 +74,7 @@ UI Usability Satisfaction	92% rated Excellent/Good
 
 🌍 Future support for regional languages and therapist review portal.
 
-🔭 Future Enhancements
+## 🔭 Future Enhancements
 📱 Native Android/iOS Mobile App
 
 🗣️ Emotion-aware voice input & speech detection
