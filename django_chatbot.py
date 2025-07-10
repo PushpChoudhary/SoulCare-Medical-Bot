@@ -16,7 +16,7 @@ def initialize_llm():
     try:
         llm = ChatGroq(
             temperature=0,
-            groq_api_key="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  ",
+            groq_api_key="",
             model_name="llama-3.3-70b-versatile"
         )
         return llm
